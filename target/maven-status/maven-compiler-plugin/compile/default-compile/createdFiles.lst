@@ -1,0 +1,4 @@
+com\webfuse\model\Employee.class
+com\webfuse\listener\RabbitMQListener.class
+com\webfuse\SpringRabbitMQListnerApplication.class
+com\webfuse\config\RabbitMQConfig.class
